@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flickr manager\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-flickr-manager\n"
+"POT-Creation-Date: 2011-04-28 05:28+0000\n"
+"PO-Revision-Date: 2011-05-09 03:41+0000\n"
+"Last-Translator: Hector A. Mantellini <Unknown>\n"
+"Language-Team: theindependentproject.com "
+"<alejandro@theindependentproject.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-05-11 00:32+0000\n"
+"X-Generator: Launchpad (build 12981)\n"
+"X-Poedit-Country: URUGUAY\n"
+"X-Poedit-Language: Spanish\n"
+
+#: templates/FlickrPage.php:9
+msgid "Wordpress Flickr Manager is not installed / activated!"
+msgstr "Wordpress Flickr Manager no esta instalado/activado!"
+
+#: OverlayLoader.php:90
+msgid "View on Flickr"
+msgstr "Ver en Flickr"
+
+#: FlickrManager.php:29
+msgid ""
+"You are currently running %s and you must have at least PHP 4.4.x in order "
+"to use Flickr Manager!"
+msgstr ""
+"Actualmente está usando %s y debería tener al menos PHP 4.4.x para poder "
+"usar Flickr Manager."
+
+#: FlickrManager.php:145
+msgid "Settings"
+msgstr "Configuración"
+
+#: FlickrManager.php:391
+msgid "Recent Photos"
+msgstr "Fotos Recientes"
+
+#: FlickrManager.php:409
+msgid "Disable"
+msgstr "Desactivar"
+
+#: FlickrManager.php:410 FlickrAdmin.php:167 FlickrPanel.php:321
+msgid "Small"
+msgstr "Pequeño"
+
+#: FlickrManager.php:411 FlickrAdmin.php:168 FlickrPanel.php:322
+msgid "Medium"
+msgstr "Mediano"
+
+#: FlickrManager.php:412 FlickrAdmin.php:169 FlickrPanel.php:323
+msgid "Large"
+msgstr "Grande"
+
+#: FlickrManager.php:415 FlickrAdmin.php:173 FlickrPanel.php:326
+msgid "Original"
+msgstr "Original"
+
+#: FlickrManager.php:420 FlickrPanel.php:282 FlickrPanel.php:334
+msgid "Title"
+msgstr "Título"
+
+#: FlickrManager.php:425 FlickrAdmin.php:343
+msgid "# Photos"
+msgstr "# de fotos"
+
+#: FlickrManager.php:430 FlickrAdmin.php:238
+msgid "Image Viewer"
+msgstr "Visor de imágenes"
+
+#: FlickrManager.php:440
+msgid ""
+"This option will determine the image loaded into the Javascript viewer."
+msgstr "Esta opción determinará la imagen cargada en el visor de Javascript."
+
+#: FlickrAdmin.php:74 FlickrAdmin.php:215
+msgid "Key"
+msgstr "Palabra Clave"
+
+#: FlickrAdmin.php:75 FlickrAdmin.php:217
+msgid "Secret"
+msgstr "Secreto"
+
+#: FlickrAdmin.php:122
+msgid "Options Saved!"
+msgstr "Opciones guardadas."
+
+#: FlickrAdmin.php:159
+msgid "API key has been reset to default!"
+msgstr "Llave API esta siendo reseteada a la por defecto"
+
+#: FlickrAdmin.php:177
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: FlickrAdmin.php:187
+msgid "Flickr Manager Settings"
+msgstr "Opciones de Flickr Manager"
+
+#: FlickrAdmin.php:206
+msgid "Global Settings"
+msgstr "Configuración global"
+
+#: FlickrAdmin.php:210
+msgid "API Information"
+msgstr "Información API"
+
+#: FlickrAdmin.php:219
+msgid "Override API Key. You will need to authenticate with Flickr again."
+msgstr "Anular API, Necesitará autenticar en Flickr  de nuevo"
+
+#: FlickrAdmin.php:233
+msgid "Open Flickr pages in a new window"
+msgstr "Abrir páginas de Flickr en una nueva ventana"
+
+#: FlickrAdmin.php:244
+msgid "Include Flickr link in caption"
+msgstr "Incluir enlace de Flickr en la leyenda"
+
+#: FlickrAdmin.php:249
+msgid "Before Image"
+msgstr "Antes de la imagen"
+
+#: FlickrAdmin.php:254
+msgid "After Image"
+msgstr "Después de la imagen"
+
+#: FlickrAdmin.php:259
+msgid "Enable Photo Sharing"
+msgstr "Habilitado compartir fotos"
+
+#: FlickrAdmin.php:278
+msgid "Media Panel Settings"
+msgstr "Opciones del Panel de medios"
+
+#: FlickrAdmin.php:282
+msgid "Hide private photos"
+msgstr "Ocultar fotos privadas"
+
+#: FlickrAdmin.php:287
+msgid "Photos per page"
+msgstr "Fotos por página"
+
+#: FlickrAdmin.php:298
+msgid "Enable image viewer by default"
+msgstr "Activar visor de imágenes predeterminado"
+
+#: FlickrAdmin.php:303
+msgid "Default image viewer size"
+msgstr "Tamaño predeterminado del visor de imágenes"
+
+#: FlickrAdmin.php:319
+msgid "User Information"
+msgstr "Información del usuario"
+
+#: FlickrAdmin.php:323
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: FlickrAdmin.php:328
+msgid "User ID"
+msgstr "ID de usuario"
+
+#: FlickrAdmin.php:333
+msgid "Real Name"
+msgstr "Nombre real"
+
+#: FlickrAdmin.php:338
+msgid "Photo URL"
+msgstr "URL de la foto"
+
+#: FlickrAdmin.php:348
+msgid "Logout &raquo;"
+msgstr "Cerrar sesión &raquo;"
+
+#: FlickrAdmin.php:351
+msgid "About"
+msgstr "Acerca de..."
+
+#: FlickrAdmin.php:393
+msgid "Authenticate"
+msgstr "Autenticar"
+
+#: FlickrAdmin.php:396
+msgid "Step"
+msgstr "Paso"
+
+#: FlickrAdmin.php:399
+msgid "Finish &raquo;"
+msgstr "Terminar &raquo;"
+
+#: FlickrAdmin.php:400
+msgid ""
+"If you have modified your API Key and would like to reset it back to "
+"default, please click <a href=\"#\" id=\"resetapi\">here</a>."
+msgstr ""
+"Si tu modificas la llave API, podrías regresas a la por defecto, haciendo "
+"click <a href=\"#\" id=\"resetapi\">aquí</a>."
+
+#: FlickrAdmin.php:479
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: FlickrPanel.php:61
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: FlickrPanel.php:62
+msgid "Are you sure you want to delete this?"
+msgstr "¿Está seguro de querer eliminar esto?"
+
+#: FlickrPanel.php:93
+msgid "Add Flickr Photo"
+msgstr "Añadir foto a Flickr"
+
+#: FlickrPanel.php:112
+msgid "Error: Please authenticate through "
+msgstr "Error: Autentifique a traves de "
+
+#: FlickrPanel.php:132
+msgid "Photo stream"
+msgstr "Foto fluido"
+
+#: FlickrPanel.php:133
+msgid "Albums"
+msgstr "Albums"
+
+#: FlickrPanel.php:134
+msgid "Everyone"
+msgstr "Todos"
+
+#: FlickrPanel.php:135
+msgid "Upload"
+msgstr "Subir"
+
+#: FlickrPanel.php:148
+msgid "Search"
+msgstr "Buscar"
+
+#: FlickrPanel.php:186
+msgid "An error occurred while trying to upload your photo"
+msgstr "Ocurrió un error mientras se intentaba subir su foto"
+
+#: FlickrPanel.php:252
+msgid "Insert Set"
+msgstr "Insertar colección"
+
+#: FlickrPanel.php:283
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: FlickrPanel.php:285
+msgid "Space separated list"
+msgstr "Lista separada por espacios"
+
+#: FlickrPanel.php:286 FlickrPanel.php:335
+msgid "Description"
+msgstr "Descripción"
+
+#: FlickrPanel.php:288
+msgid "Link URL"
+msgstr "URL del enlace"
+
+#: FlickrPanel.php:290
+msgid "Alignment"
+msgstr "Alineación"
+
+#: FlickrPanel.php:291
+msgid "None"
+msgstr "Ninguna"
+
+#: FlickrPanel.php:292
+msgid "Left"
+msgstr "Izquierda"
+
+#: FlickrPanel.php:293
+msgid "Center"
+msgstr "Centrado"
+
+#: FlickrPanel.php:294
+msgid "Right"
+msgstr "Derecha"
+
+#: FlickrPanel.php:295 FlickrPanel.php:336
+msgid "Size"
+msgstr "Tamaño"
+
+#: FlickrPanel.php:297 FlickrPanel.php:346
+msgid "Insert into Post"
+msgstr "Insertar en la entrada"
+
+#: FlickrPanel.php:301 FlickrPanel.php:337
+msgid "Enable Viewer"
+msgstr "Habilitar visor"
+
+#: FlickrPanel.php:302 FlickrPanel.php:338
+msgid "Viewer Size"
+msgstr "Tamaño Visor"
+
+#: FlickrPanel.php:304
+msgid "Image Group"
+msgstr "Grupo de Imagen"
+
+#: FlickrPanel.php:319
+msgid "Square"
+msgstr "Cuadrado"
+
+#: FlickrPanel.php:320
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: FlickrPanel.php:339
+msgid "* Leave blank to display the entire album."
+msgstr "* Deja en blanco para mostrar todo el álbum."
+
+#: FlickrPanel.php:340
+msgid "Number of Photos"
+msgstr "Número de fotos"
+
+#: FlickrPanel.php:360
+msgid "Save"
+msgstr "Guardar"
+
+#: FlickrPanel.php:361
+msgid "Delete"
+msgstr "Eliminar"
+
+#: FlickrPanel.php:442
+msgid "Invalid function call or reference!"
+msgstr "Invalida llamada a función o referencia"
+
+#~ msgid "Profile URL"
+#~ msgstr "URL del perfil"
+
+#~ msgid "User upload level"
+#~ msgstr "Nivel de usuario para subir"
+
+#~ msgid "Administrator"
+#~ msgstr "Administrador"
+
+#~ msgid "Editor"
+#~ msgstr "Editor"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Permissions"
+#~ msgstr "Permisos"
+
+#~ msgid "Friends"
+#~ msgstr "Amigos"
+
+#~ msgid "Family"
+#~ msgstr "Familia"
+
+#~ msgid "Action"
+#~ msgstr "Acción"
+
+#~ msgid "View"
+#~ msgstr "Ver"
+
+#~ msgid "Modify"
+#~ msgstr "Modificar"
+
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; Anterior"
+
+#~ msgid "Next &raquo;"
+#~ msgstr "Siguiente &raquo;"
+
+#~ msgid "Close on insert"
+#~ msgstr "Cerrar al insertar"
+
+#~ msgid "No photos found"
+#~ msgstr "No se han encontrado fotos"
+
+#~ msgid "Javascript Viewer"
+#~ msgstr "Visor de Javascript"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "Wrap photos with HTML"
+#~ msgstr "Envolver fotos con HTML"
+
+#~ msgid "My Photos"
+#~ msgstr "Mis fotos"
+
+#~ msgid "Create Gallery"
+#~ msgstr "Crear galería"
+
+#~ msgid "Public Photos"
+#~ msgstr "Fotos públicas"
+
+#~ msgid "Back to My Photos"
+#~ msgstr "Volver a Mis fotos"
+
+#~ msgid "License"
+#~ msgstr "Licencia"
+
+#~ msgid "Contributer"
+#~ msgstr "Colaborador"
+
+#~ msgid "Image successfully uploaded"
+#~ msgstr "Imagen subida correctamente"
+
+#~ msgid "Hide public copyright information when browsing"
+#~ msgstr "Ocultar información de copyright pública mientras se navega"
+
+#~ msgid "Manage Flickr Photos"
+#~ msgstr "Gestionar fotos de Flickr"
+
+#~ msgid "Upload Photo"
+#~ msgstr "Cargar foto"
+
+#~ msgid "Modify Photo"
+#~ msgstr "Modificar foto"
+
+#~ msgid "Upload &raquo;"
+#~ msgstr "Cargar &raquo;"
+
+#~ msgid "&laquo; Back"
+#~ msgstr "&laquo; Atrás"
+
+#~ msgid "Public"
+#~ msgstr "Público"
+
+#~ msgid "Manage Photos"
+#~ msgstr "Gestionar fotos"
+
+#~ msgid "Add images to your posts with"
+#~ msgstr "Añadir imágenes a sus entradas con"
+
+#~ msgid "Back to Public Photos"
+#~ msgstr "Volver a Fotos públicas"
+
+#~ msgid "My Photosets"
+#~ msgstr "Mis colecciones de fotos"
+
+#~ msgid "Browse Photos"
+#~ msgstr "Explorar imágenes"
+
+#~ msgid "Flickr Upload"
+#~ msgstr "Cargar fotos a Flickr"
+
+#~ msgid "Photo"
+#~ msgstr "Foto"
+
+#~ msgid ""
+#~ "You do not have permission to upload photos to this stream, you may adjust "
+#~ "this in the settings page!"
+#~ msgstr ""
+#~ "No tiene los permisos suficientes para cargar fotos. Ajuste esto en la "
+#~ "página de configuración."
+
+#~ msgid "Back to My Photosets"
+#~ msgstr "Volver a mi colección de fotos"

@@ -1,0 +1,74 @@
+#insertPanel {
+	bottom: 0px;
+	display: none;
+	left: 0px;
+	position: fixed;
+	width: 100%;
+}
+
+
+#insertPanel .inner {
+	background-color: #F0F0F0 ;
+	border-top: 1px solid #666666 ;
+	padding: 10px;
+}
+
+#insertPanel .close {
+	position:absolute;
+	top: 0px;
+	right: 0px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	padding: 1px 5px;
+}
+
+#filter {
+	width: 200px !important;
+	font-style: italic;
+	color: #aaaaaa;
+}
+
+#pagination {
+	float: right;
+}
+
+#pagination a.current {
+	font-weight: bold;
+	color: #000000;
+	border-color: #000000;
+}
+
+#pagination a,#pagination span {
+	display: block;
+	border: 1px solid #DFDFDF;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	text-decoration: none;
+	padding: 1px 5px;
+	margin-right: 3px;
+	float: left;
+}
+
+#pagination span {
+	border: 0px;
+}
+
+#pagination a:hover {
+	background: #21759B;
+	color: #fff;
+	border-color: #000000;
+}
+
+#navigation {
+	margin-bottom: 10px;
+}
+
+#photoPanel img {
+	padding: 2px;
+}
+
+tr.overlayRow {
+	display:none;
+}
